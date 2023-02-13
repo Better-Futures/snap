@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ec0d9b96.js",
+    "static/media/share.mp4": "/static/media/share.f758eefc9ea32c312130.mp4",
+    "static/media/snap.png": "/static/media/snap.59e57ecf7c4c885a6da4.png",
+    "index.html": "/index.html",
+    "main.ec0d9b96.js.map": "/static/js/main.ec0d9b96.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ec0d9b96.js"
+  ]
+}
